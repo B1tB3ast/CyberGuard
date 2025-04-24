@@ -3,15 +3,15 @@ CyberGuard is an automated system designed to detect cyberbullying on social med
 
 ## Directory Structure
 ```
-├── Datasets/                          # Raw and processed datasets
-├── image/                             # Visual assets for analysis
-├── BERT.ipynb                         # BERT-based model implementation
-├── LSTM.py                            # LSTM-based model script
-├── data_preprocess.ipynb              # Data cleaning and preprocessing
-├── eda.ipynb                          # Exploratory Data Analysis
-├── merged_cleaned_dataset_balanced.csv # Final cleaned and balanced dataset
-├── stopwords.txt                      # Custom stopwords list
-├── traditional_models.ipynb           # Traditional ML models (SVM, RF, etc.)
+├── Datasets/                            # Raw and processed datasets
+├── image/                               # Visual assets for analysis
+├── BERT.ipynb                           # BERT-based model implementation
+├── LSTM.py                              # LSTM-based model script
+├── data_preprocess.ipynb                # Data cleaning and preprocessing
+├── eda.ipynb                            # Exploratory Data Analysis
+├── merged_cleaned_dataset_balanced.csv  # Final cleaned and balanced dataset
+├── stopwords.txt                        # Custom stopwords list
+├── traditional_models.ipynb             # Traditional ML models (SVM, RF, etc.)
 ```
 
 ## How to Run
